@@ -1,0 +1,6 @@
+{
+  "name": "Nepali Rap Studio",
+  "description": "Generate, customize, and perform original Nepali rap songs with Devanagari lyrics, Romanized phonetics, English translations, and AI beat generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
